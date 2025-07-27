@@ -19,8 +19,8 @@ body {
 }
 
 .btn-primary {
-  background-color: #2f855a;
-  color: white;
+  background-color: #ffffff;
+  color: #2f855a;
   padding: 0.75rem 2rem;
   font-weight: 700;
   border-radius: 9999px;
@@ -30,12 +30,12 @@ body {
   justify-content: center;
 }
 .btn-primary:hover {
-  background-color: #38a169;
+  background-color: #2f855a;
 }
 
 .btn-secondary {
-  border: 2px solid #2f855a;
-  color: #2f855a;
+  border: 2px solid #ffffff;
+  color: #ffffff;
   padding: 0.75rem 2rem;
   font-weight: 700;
   border-radius: 9999px;
@@ -45,7 +45,7 @@ body {
   justify-content: center;
 }
 .btn-secondary:hover {
-  background-color: #2f855a;
+  background-color: #ffffff;
   color: white;
 }
 
